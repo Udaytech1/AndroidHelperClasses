@@ -1,0 +1,8 @@
+<style name="fullScreen" parent="Theme.AppCompat">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:background">@color/tranparent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
